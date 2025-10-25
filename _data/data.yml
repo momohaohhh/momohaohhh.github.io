@@ -8,19 +8,19 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: momoga
+  tagline:前端吃喝玩乐主理人
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: moomoggggaaaa
+  phone: 1234567890
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
+  website: https://momohaohhh.github.io # Include the full website URL, including "http://" or "https://".
+  linkedin: momoga
   xing: alandoe
-  github: jekyll
+  github: momoga
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -34,30 +34,30 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
+  languages: 
+    title: 语言能力
     info:
     - idiom: English
-      level: Native
+      level: 一窍不通
 
     - idiom: French
-      level: Professional
+      level: 一窍不通
 
     - idiom: Spanish
-      level: Professional
+      level: 一窍不通
 
   interests:
-    title: Interests
+    title: 兴趣爱好
     info:
-    - item: Climbing
+    - item: 贪吃
       link:
 
 
-    - item: Snowboarding
+    - item: 霸道
       link:
 
 
-    - item: Cooking
+    - item: 卖萌=￣ω￣=
       link:
 
 
