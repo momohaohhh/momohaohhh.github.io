@@ -1,3 +1,5 @@
+
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -34,28 +36,23 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages: 
+    languages: 
     title: 语言能力
     info:
     - idiom: Japanese
       level: 十分精通
-
     - idiom: French
       level: 一窍不通
-
     - idiom: Spanish
       level: 一窍不通
-
-  interests:
+    interests:
     title: 兴趣爱好
     info:
     - item: 贪吃
       link:
 
-
     - item: 霸道
       link:
-
 
     - item: 卖萌=￣ω￣=
       link:
