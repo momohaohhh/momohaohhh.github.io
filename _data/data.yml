@@ -14,13 +14,13 @@ sidebar:
 
   # Sidebar links
   email: 用户无法查看该鼠的电子邮箱
-  phone: 110
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  phone: 用户无法查看该鼠的联系方式6+
+  timezone: Asia/Japan # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship:霓虹国
   website: https://momohaohhh.github.io # Include the full website URL, including "http://" or "https://".
-  linkedin: momoga
+  linkedin: momoga是世界上最可爱的鼠
   xing: alandoe
-  github: momoga
+  github: momoga是世界上最可爱的鼠
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
@@ -37,8 +37,8 @@ sidebar:
   languages: 
     title: 语言能力
     info:
-    - idiom: English
-      level: 一窍不通
+    - idiom: Japanese
+      level: 十分精通
 
     - idiom: French
       level: 一窍不通
