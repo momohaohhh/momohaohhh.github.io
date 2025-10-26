@@ -9,14 +9,14 @@ sidebar:
 
   # Profile information
   name: momoga
-  tagline: '超前端吃喝玩乐主理人'
+  tagline: "超前端吃喝玩乐主理人"
   avatar: profile.png.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: 用户无法查看该鼠的电子邮箱
   phone: 用户无法查看该鼠的联系方式
   timezone: Asia/Shanghai # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:'霓虹国'
+  citizenship: "霓虹国"
   website: https://momohaohhh.github.io # Include the full website URL, including "http://" or "https://".
   linkedin: momoga
   xing: alandoe
