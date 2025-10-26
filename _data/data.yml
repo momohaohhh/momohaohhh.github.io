@@ -26,8 +26,8 @@ sidebar:
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: "@jekyllrb.bsky.social" # Specify your full Bluesky handle
+  twitter: "@jekyllrb"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,24 +37,24 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages: 
-    title: 语言能力
-    info:
-    - idiom: Japanese
+      title: 语言能力
+      info:
+     - idiom: Japanese
       level: 十分精通
-    - idiom: French
+     - idiom: French
       level: 一窍不通
-    - idiom: Spanish
+     - idiom: Spanish
       level: 一窍不通
     interests:
-    title: 兴趣爱好
-    info:
-    - item: 贪吃
+      title: 兴趣爱好
+      info:
+     - item: 贪吃
       link:
 
-    - item: 霸道
+     - item: 霸道
       link:
 
-    - item: 卖萌=￣ω￣=
+     - item: 卖萌=￣ω￣=
       link:
 
 
